@@ -1,1 +1,1 @@
-# fundamentals-java
+# Learning Java through practice
